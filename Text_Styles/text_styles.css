@@ -1,0 +1,73 @@
+*{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+    background-color: rgb(230, 230, 230);
+
+}
+
+.bar{
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    margin-bottom: -10px;
+    padding-top: 16px;
+}
+.barBotton{
+    float: left;
+    background-attachment: fixed;
+    background-color: rgb(255, 255, 255);
+    padding-right: 40px;
+    font-size: x-large;
+}
+
+.h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding-left: 1%;
+}
+
+.Mensajes{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    padding-top: 1%;
+}
+
+.titles{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 1%;
+}
+
+.Datos{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.formulario{
+    padding-bottom: 2%;
+    padding-left: 1%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pie{
+    float: inline-end;
+    width: 100%;
+    height: 70px;
+    background-color: rgb(173, 173, 173);
+    margin-top: 25%;
+}
+.recibir{
+    text-align: center;
+}
+#recibir1{
+
+    font-size: xx-large;
+}
+#recibir2{
+
+    width: 100px;
+    height: 40px;
+}
+.botton{
+margin-top: 40%;
+}
